@@ -1,0 +1,8 @@
+{
+  "printWidth": 100,
+  "singleAttributePerLine": true,
+  "vueIndentScriptAndStyle": true,
+  "semi": true,
+  "singleQuote": false,
+  "trailingComma": "es5"
+}
